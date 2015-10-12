@@ -1,0 +1,1 @@
+This is designed to be used as a library of sorts. I focused mostly on steam, though the equations implemented fully cover liquid water as well. Supercritical ranges are covered also.
